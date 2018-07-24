@@ -1,0 +1,4 @@
+com\test\list\service\TestService.class
+com\test\list\controller\TestController.class
+com\test\list\dao\TestDao.class
+com\test\list\entity\Test.class
